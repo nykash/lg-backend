@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "place_orders",
+  "info": {
+    "singularName": "place-order",
+    "pluralName": "place-orders",
+    "displayName": "PlaceOrderPage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "InputsForm": {
+      "type": "text"
+    }
+  }
+}

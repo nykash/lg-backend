@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_pages",
+  "info": {
+    "singularName": "about-page",
+    "pluralName": "about-pages",
+    "displayName": "About-Product-Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "priceText": {
+      "type": "text"
+    },
+    "IncludedItemsTitle": {
+      "type": "text"
+    },
+    "InstructionsTitle": {
+      "type": "string"
+    }
+  }
+}

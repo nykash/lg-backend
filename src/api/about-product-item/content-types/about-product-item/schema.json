@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "about_product_items",
+  "info": {
+    "singularName": "about-product-item",
+    "pluralName": "about-product-items",
+    "displayName": "About-Product-Item"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "img": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
